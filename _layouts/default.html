@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/print.css' | relative_url }}" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% seo %}
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TYYP33K4R"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-2TYYP33K4R');
+  </script>
+
+  </head>
+  <body>
+    <div id="container">
+      <div class="inner">
+        <header>
+        </header>
+        <section id="main_content">
+          {{ content }}
+        </section>
+
+        <footer>
+          <div align="center"> 
+            <p><a href="/privacy-policy">Privacy Policy</a></p>
+            <p><a href="/terms-of-service">Terms of Use</a></p>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
