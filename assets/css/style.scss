@@ -17,8 +17,21 @@ $theme-hacker-vlink-color:           #3E5FBE;
 
 
 @font-face {
-	font-family: 'cyber'; 
-	src: url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/css/Cyberpunk-Regular.ttf?raw=true'); 
+	/**
+    EOT is IE only,
+    TTF has partial IE support,
+    WOFF enjoys the widest support but is not available in some older browsers
+    WOFF 2.0 support is a work in progress for many browsers.
+	**/
+	font-family: 'Cyberpunk-Regular';
+	src: url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.eot?raw=true');
+	src: url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.eot?raw=true?#iefix') format('embedded-opentype'),
+			 url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.woff2?raw=true') format('woff2'),
+			 url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.woff?raw=true') format('woff'),
+			 url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.ttf?raw=true') format('truetype'),
+			 url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/fonts/Cyberpunk-Regular.svg?raw=true#besom_2regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
 
 body, html, #container {
@@ -68,13 +81,13 @@ footer {
 }
 
 .stack {
-  font-family: 'cyber';
+  font-family: 'Cyberpunk-Regular';
   display: grid;
   grid-template-columns: 1fr;
 }
 
 .stack span {
-  font-family: 'cyber';
+  font-family: 'Cyberpunk-Regular';
   font-weight: bold;
   grid-row-start: 1;
   grid-column-start: 1;
