@@ -1,14 +1,4 @@
-<div align="center">
-	<div class="container">
-		wh.iterabb.it/kate
-		<div class="stack" style="--stacks: 3;">
-			<span style="--index: 0;">KATE</span>
-			<span style="--index: 1;">KATE</span>
-			<span style="--index: 2;">KATE</span>
-		</div>
-		<span class="right">a discord bot</span>
-	</div>
-</div>
+
 
 This is a simple discord bot that will send a message to a channel in response to a few commands.
 
