@@ -3,7 +3,7 @@
 <details>
  <summary>Click to expand!</summary>
  <h2>Table of Contents</h2>
-    
+
   <ol>
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#information">Information we may collect about you</a></li>
@@ -19,11 +19,11 @@
 
 This Privacy Policy ("Privacy Policy") apply to the use of the service ("Service", "Bot", "katelibby") provided by The White Rabbit Organization (hereinafter also referred as “we” or “us”).
 
-If you have any questions or comments about this Privacy Policy, please contact us at [admin@katelibby.chat](mailto:admin@katelibby.chat
+If you have any questions or comments about this Privacy Policy, please contact us at [admin@wh.iterabb.it](mailto:admin@kwh.iterabb.it)
 
 We are committed to protecting and respecting your privacy. The Privacy Policy explains the basis on which personal information we collect from you will be processed by us or on our behalf.
 
-Where we decide the purpose or means for which personal data you supply through these Services is processed, we are the “controller”. Where you decide the purpose or means for which personal data you supply through these Services is processed, you are the “controller”. We will comply with proper and applicable data protection laws, including the General Data Protection Regulation 2016/679. 
+Where we decide the purpose or means for which personal data you supply through these Services is processed, we are the “controller”. Where you decide the purpose or means for which personal data you supply through these Services is processed, you are the “controller”. We will comply with proper and applicable data protection laws, including the General Data Protection Regulation 2016/679.
 
 We encourage you to read this Privacy Policy carefully as it contains important information about the following:
 
@@ -73,9 +73,9 @@ To make a request, please let us know by sending an email to [admin@wh.iterabb.i
     You have the right to request a copy of the personal information we process about you and to have any inaccuracies corrected.
     You can ask for supplying, correcting or deleting personal information held about you.
     You can ask us to restrict, stop processing, or to delete your personal data.
-    
-    
-At any point you can also join our discord server and talk to our support team about any issues you may have. 
+
+
+At any point you can also join our discord server and talk to our support team about any issues you may have.
 
 
 
