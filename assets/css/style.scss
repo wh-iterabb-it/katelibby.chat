@@ -6,19 +6,25 @@
 /** Theme overrides for customization **/
 
 /** Default Katelibby Page Theme **/
-$theme-hacker-yellow: #FEFA03;
-$theme-hacker-red: #EB4F5D;
-$theme-hacker-blue: #3E5FBE;
-$theme-hacker-purple: #502F4A;
-$theme-default-primary:               #3AB0FF;
-$theme-default-secondary:             #FFB562;
-$theme-default-trinary:               #F87474;
-$theme-default-background:            #F9F2ED;
-$theme-default-text-color:            #323232;
-$theme-default-link-color:            #FFB562;
-$theme-default-hlink-color:           #F87474;
-$theme-default-vlink-color:           #FF8862;
+$theme-hacker-primary: 								#FEFA03;
+$theme-hacker-secondary: 							#EB4F5D;
+$theme-hacker-trinary: 								#3E5FBE;
+$theme-hacker-background:						  #502F4A;
+$theme-hacker-text-color:  				  #F9F2ED;
+$theme-hacker-link-color:            #EB4F5D;
+$theme-hacker-hlink-color:           #3E5FBE;
+$theme-hacker-vlink-color:           #3E5FBE;
 
+
+
+ul {
+	li {
+		display: inline-block;
+		list-style: none;
+		margin-left: 0;
+		padding-left: 0;
+	}
+}
 
 .container {
   color: var(--color);
@@ -57,7 +63,7 @@ $theme-default-vlink-color:           #FF8862;
   0% {
     opacity: 0;
     transform: translateX(-50%);
-    text-shadow: -2px 3px 0 $theme-hacker-red, 2px -3px 0 $theme-hacker-blue;
+    text-shadow: -2px 3px 0 $theme-hacker-secondary, 2px -3px 0 $theme-hacker-trinary;
   };
   60% {
     opacity: 0.5;
@@ -66,7 +72,7 @@ $theme-default-vlink-color:           #FF8862;
   80% {
     transform: none;
     opacity: 1;
-    text-shadow: 2px -3px 0 $theme-hacker-red, -2px 3px 0 $theme-hacker-blue;
+    text-shadow: 2px -3px 0 $theme-hacker-secondary, -2px 3px 0 $theme-hacker-trinary;
   }
   100% {
     text-shadow: none;
@@ -75,11 +81,11 @@ $theme-default-vlink-color:           #FF8862;
 
 @keyframes glitch {
   0% {
-    text-shadow: -2px 3px 0 $theme-hacker-red, 2px -3px 0 $theme-hacker-blue;
+    text-shadow: -2px 3px 0 $theme-hacker-secondary, 2px -3px 0 $theme-hacker-trinary;
     transform: translate(var(--glitch-translate));
   }
   2% {
-    text-shadow: 2px -3px 0 $theme-hacker-red, -2px 3px 0 $theme-hacker-blue;
+    text-shadow: 2px -3px 0 $theme-hacker-secondary, -2px 3px 0 $theme-hacker-trinary;
   }
   4%, 100% {  text-shadow: none; transform: none; }
 }
