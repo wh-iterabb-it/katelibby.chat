@@ -6,14 +6,20 @@
 /** Theme overrides for customization **/
 
 /** Default Katelibby Page Theme **/
-$theme-hacker-primary: 								#FEFA03;
-$theme-hacker-secondary: 							#EB4F5D;
-$theme-hacker-trinary: 								#3E5FBE;
-$theme-hacker-background:						  #502F4A;
-$theme-hacker-text-color:  				  #F9F2ED;
+$theme-hacker-primary:  	           #FEFA03;
+$theme-hacker-secondary:             #EB4F5D;
+$theme-hacker-trinary: 		           #3E5FBE;
+$theme-hacker-background:	           #502F4A;
+$theme-hacker-text-color:            #F9F2ED;
 $theme-hacker-link-color:            #EB4F5D;
 $theme-hacker-hlink-color:           #3E5FBE;
 $theme-hacker-vlink-color:           #3E5FBE;
+
+
+@font-face {
+	font-family: 'cyber'; 
+	src: url('https://github.com/wh-iterabb-it/katelibby.chat/blob/main/assets/css/Cyberpunk-Regular.ttf?raw=true'); 
+}
 
 body, html, #container {
 	text-shadow: none;
@@ -62,11 +68,13 @@ footer {
 }
 
 .stack {
+  font-family: 'cyber';
   display: grid;
   grid-template-columns: 1fr;
 }
 
 .stack span {
+  font-family: 'cyber';
   font-weight: bold;
   grid-row-start: 1;
   grid-column-start: 1;
