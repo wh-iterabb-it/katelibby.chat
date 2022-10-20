@@ -15,7 +15,22 @@ $theme-hacker-link-color:            #EB4F5D;
 $theme-hacker-hlink-color:           #3E5FBE;
 $theme-hacker-vlink-color:           #3E5FBE;
 
+body {
+	background-color: $theme-hacker-background;
+	color: $theme-hacker-text-color;
+}
 
+h1	{
+	color: $theme-hacker-primary;
+}
+
+h2	{
+	color: $theme-hacker-secondary;
+}
+
+h3	{
+	color: $theme-hacker-trinary;
+}
 
 ul {
 	li {
