@@ -80,13 +80,14 @@ h3	{
   width: 100px;
 }
 
-.button-13:hover {
+.button-hy:hover {
   background-color: #5F2F4F;
 }
 
-.button-13:focus {
-  border-color: #008296;
-  box-shadow: rgba(95, 47, 79, .5) 0 2px 5px 0;
+.button-hy:focus {
+  border-color: $theme-hacker-primary;
+	color: $theme-hacker-background;
+  box-shadow: rgba(254, 250, 3, .5) 0 2px 5px 0;
   outline: 0;
 }
 
