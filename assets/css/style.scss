@@ -78,6 +78,9 @@ h3	{
   touch-action: manipulation;
   vertical-align: middle;
   width: 200px;
+	a {
+		color: $theme-hacker-background;
+	}
 }
 
 .button-hy:hover {
