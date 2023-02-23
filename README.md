@@ -15,6 +15,18 @@ This is a simple discord bot that will send a message to a channel in response t
 </div>
 
 
+### Adding Bot to Slack Server
+
+
+<div align="center">
+  <p>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=999402528632483871&redirect_uri=https%3A%2F%2Fcruciblebot-oauth.herokuapp.com%2F&response_type=code&scope=identify">
+      <img src="https://img.shields.io/badge/Add_To_Slack-20232A.svg?logo=slack&logoColor=%7289DA&style=for-the-badge" />
+    </a>
+  </p>
+</div>
+
+
 ### Commands
 
 * `/wisdom` - Displays a random fortune / quote
