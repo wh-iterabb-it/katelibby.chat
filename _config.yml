@@ -1,9 +1,9 @@
 theme: jekyll-theme-tactile
 plugins:
   - jekyll-seo-tag
-title: "katelibby.chat - a hacker discord bot"
-tagline: "katelibby is for running fun commands directly into discord."
-description: "A Bot created by the White Rabbit organization to bring fun into discord chats"
+title: "katelibby.chat - a chat bot by wh.iterabb.it for slack and discord"
+tagline: "katelibby is for running fun commands directly into slack and discord."
+description: "A Bot created by the White Rabbit organization to bring fun into slack and discord chats. Please chat responsibly."
 social:
   name: Kate Libby Chat
   links:
