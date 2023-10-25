@@ -49,7 +49,6 @@ Please use this bot responsibly and adhear to the Terms of Use.
 <div align="center">
   <p>
     <a href="https://top.gg/servers/1011299565674172436/join">
-    <button class="button-hy" role="button">Join Our Discord</button><br />
       <img src="https://img.shields.io/badge/Join_our_discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
     </a>
   </p>
