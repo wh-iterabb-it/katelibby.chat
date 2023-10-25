@@ -20,8 +20,7 @@ This is a simple discord bot that will send a message to a channel in response t
 
 <div align="center">
   <p>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=999402528632483871&redirect_uri=https%3A%2F%2Fcruciblebot-oauth.herokuapp.com%2F&response_type=code&scope=identify">
-      <img src="https://img.shields.io/badge/Add_To_Slack-20232A.svg?logo=slack&logoColor=%7289DA&style=for-the-badge" />
+    <a href="https://slack.com/oauth/v2/authorize?client_id=780455873664.4991787441283&scope=commands&user_scope="><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcSet="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x" /></a>
     </a>
   </p>
 </div>
