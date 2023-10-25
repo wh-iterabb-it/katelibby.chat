@@ -5,19 +5,17 @@ Kate is a collaboration between members of the wh.iterabb.it organization over t
 Please use this bot responsibly and adhear to the Terms of Use.  
 
 
-### Adding Bot to Discord Server
+### Add to Discord Server
 
 
 <div align="center">
   <p>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=999402528632483871&redirect_uri=https%3A%2F%2Fcruciblebot-oauth.herokuapp.com%2F&response_type=code&scope=identify">
-      <img src="https://img.shields.io/badge/Add_To_Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" />
-    </a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=999402528632483871&redirect_uri=https%3A%2F%2Fcruciblebot-oauth.herokuapp.com%2F&response_type=code&scope=identify"><img src="https://img.shields.io/badge/Add_To_Discord-20232A.svg?logo=discord&logoColor=%7289DA&style=for-the-badge" /></a>
   </p>
 </div>
 
 
-### Adding Bot to Slack Server
+### Add to Slack Server
 
 
 <div align="center">
@@ -30,8 +28,21 @@ Please use this bot responsibly and adhear to the Terms of Use.
 
 ### Commands
 
-* `/wisdom` - Displays a random fortune / quote
-* `/moon` - Displays current moon phase
+* Entertainment and Reflection
+  * `/fortunecookie` - Displays a random fortune / quote
+* Finance Info
+  * `/stock-info` - Returns generic stock info for each symbol.
+  * `/c1` - Daily chart from non-finviz
+  * `/c15m` - Finviz weekly Chart
+  * `/cd` - Finviz YTD Chart
+  * `/cc` - Finviz Daily Chart
+* Meterological and Travel Info 
+  * `/mta` - Use the train command followed by a MTA line, such as A
+  * `/w` - get the weather by zipcode Example `/w 10023`
+  * `/moon` - Displays current moon phase
+
+
+
 
 
 ## Support
