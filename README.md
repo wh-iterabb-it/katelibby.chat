@@ -1,6 +1,8 @@
 
 
-This is a simple discord bot that will send a message to a channel in response to a few commands.
+Kate is a collaboration between members of the wh.iterabb.it organization over the span of decades. Chat bots has been a continued hobby and this latest itteration is available on slack as well as discord. The commands are just intended to bring information into slack, as well as entertain the channel lurkers. 
+
+Please use this bot responsibly and adhear to the Terms of Use.  
 
 
 ### Adding Bot to Discord Server
