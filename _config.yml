@@ -3,12 +3,12 @@ plugins:
   - jekyll-seo-tag
 title: "katelibby.chat - a chat bot for slack and discord"
 tagline: "katelibby is for running fun commands directly into slack and discord."
-description: "A Bot created by the White Rabbit organization to bring fun into slack and discord chats. Please chat responsibly."
+description: "A Bot created by wh.iterabb.it to bring information and fun into slack and discord chats. Please chat responsibly."
 social:
-  name: Kate Libby of White Rabbit
+  name: Kate Libby
   links:
     - https://github.com/wh-iterabb-it/
     - https://wh.iterabb.it/
 
-image: /assets/images/katelogo.png
+image: "/assets/images/katelogo.png"
 url: katelibby.chat
