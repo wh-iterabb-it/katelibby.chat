@@ -2,7 +2,7 @@
 
 Kate is a collaboration between members of the wh.iterabb.it organization over the span of decades. Chat bots has been a continued hobby and this latest itteration is available on slack as well as discord. The commands are just intended to bring information into slack, as well as entertain the channel lurkers. 
 
-Please use this bot responsibly and adhear to the Terms of Use.  
+Please use this bot responsibly and adhear to the [Terms of Use](https://katelibby.chat/docs/terms-of-service).  
 
 
 ### Add to Discord Server
@@ -27,9 +27,10 @@ Please use this bot responsibly and adhear to the Terms of Use.
 
 ### Commands
 
+* AI Responses
+  * `/ask {question}` - Ask Kate a question
 * Entertainment and Reflection
   * `/fortunecookie` - Displays a random fortune / quote
-  * `/moon` - Displays current moon phase
   * `/tarot` - Displays a tarot reading
 * Finance Info
   * `/stock-info {symbol}` - Returns generic stock info for each symbol.
@@ -41,11 +42,23 @@ Please use this bot responsibly and adhear to the Terms of Use.
 * Meterological and Travel Info 
   * `/mta` - Use the train command followed by a MTA line, such as A
   * `/w {zipcode}` - get the weather by zipcode Example `/w 10023`
+  * `/moon` - Displays current moon phase
 
 
+## Github Repository
 
-
-
+<div align="center">
+  <p>
+    <a href="https://github.com/wh-iterabb-it/kate-discord">
+      <img src="https://img.shields.io/badge/kate-discord-20232a.svg?logo=github&logoColor=white&style=for-the-badge" />
+    </a>
+  </p>
+    <p>
+    <a href="https://github.com/wh-iterabb-it/katelibby.chat">
+      <img src="https://img.shields.io/badge/katelibby.chat-20232a.svg?logo=github&logoColor=white&style=for-the-badge" />
+    </a>
+  </p>
+</div>
 
 ## Support
 
