@@ -28,18 +28,25 @@ Please use this bot responsibly and adhear to the [Terms of Use](https://katelib
 ## Commands
 
 ### AI Responses
+
   * `/ask {question}` - Ask Kate a question
+
 ### Entertainment and Reflection
+
   * `/fortunecookie` - Displays a random fortune / quote
   * `/tarot` - Displays a tarot reading
+
 ### Finance Info
+
   * `/stock-info {symbol}` - Returns generic stock info for each symbol.
   * `/c1 {symbol}` - Daily chart from non-finviz
   * `/c15m {symbol}` - Finviz weekly Chart
   * `/cd {symbol}` - Finviz YTD Chart
   * `/cc {symbol}` - Finviz Daily Chart
   * `/crypto {token}` - Crypto Prices
+
 ### Meterological and Travel Info 
+
   * `/mta` - Use the train command followed by a MTA line, such as A
   * `/w {zipcode}` - get the weather by zipcode Example `/w 10023`
   * `/moon` - Displays current moon phase
