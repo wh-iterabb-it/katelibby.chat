@@ -50,7 +50,7 @@ Please use this bot responsibly and adhear to the [Terms of Use](https://katelib
 <div align="center">
   <p>
     <a href="https://github.com/wh-iterabb-it/kate-discord">
-      <img src="https://img.shields.io/badge/kate-discord-20232a.svg?logo=github&logoColor=white&style=for-the-badge" />
+      <img src="https://img.shields.io/badge/kate_discord-20232a.svg?logo=github&logoColor=white&style=for-the-badge" />
     </a>
   </p>
     <p>
