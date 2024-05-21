@@ -29,16 +29,19 @@ Please use this bot responsibly and adhear to the Terms of Use.
 
 * Entertainment and Reflection
   * `/fortunecookie` - Displays a random fortune / quote
+  * `/moon` - Displays current moon phase
+  * `/tarot` - Displays a tarot reading
 * Finance Info
-  * `/stock-info` - Returns generic stock info for each symbol.
-  * `/c1` - Daily chart from non-finviz
-  * `/c15m` - Finviz weekly Chart
-  * `/cd` - Finviz YTD Chart
-  * `/cc` - Finviz Daily Chart
+  * `/stock-info {symbol}` - Returns generic stock info for each symbol.
+  * `/c1 {symbol}` - Daily chart from non-finviz
+  * `/c15m {symbol}` - Finviz weekly Chart
+  * `/cd {symbol}` - Finviz YTD Chart
+  * `/cc {symbol}` - Finviz Daily Chart
+  * `/crypto {token}` - Crypto Prices
 * Meterological and Travel Info 
   * `/mta` - Use the train command followed by a MTA line, such as A
-  * `/w` - get the weather by zipcode Example `/w 10023`
-  * `/moon` - Displays current moon phase
+  * `/w {zipcode}` - get the weather by zipcode Example `/w 10023`
+
 
 
 
